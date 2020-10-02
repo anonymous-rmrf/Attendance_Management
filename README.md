@@ -19,10 +19,4 @@
 * Teacher 
   * Takes attendance of each student present in the class (database)
 
-### Group Members
-* Debasish Sahoo
-* Amarendra Prasad Sahu
-* Manda Saahithi
-* Sachin Pathak
-* Prachi Pallavi
 
